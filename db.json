@@ -1,17 +1,20 @@
-[
-  {
-    name: 1,
-    description: "Token 1",
-    image: "https://i.ibb.co/1qn370y/Screenshot-from-2020-08-10-11-17-10.png"
-  },
-  {
-    name: 2,
-    description: "Token 1",
-    image: "https://via.placeholder.com/150"
-  },
-  {
-    name: 3,
-    description: "Token 1",
-    image: "https://via.placeholder.com/150"
-  }
+{
+token-uris: [
+{
+id: 0,
+name: 1,
+description: "Token 1",
+image: "https://i.ibb.co/1qn370y/Screenshot-from-2020-08-10-11-17-10.png"
+},
+{
+name: 2,
+description: "Token 1",
+image: "https://via.placeholder.com/150"
+},
+{
+name: 3,
+description: "Token 1",
+image: "https://via.placeholder.com/150"
+}
 ]
+}
